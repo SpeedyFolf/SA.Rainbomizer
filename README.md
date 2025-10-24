@@ -54,10 +54,12 @@ Installation requires an ASI Loader to be installed.
 
 [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) by [ThirteenAG](https://github.com/ThirteenAG) is a popular option since it supports CrashDumps, which will be necessary if you want to report a crash.
 
-If you already have mods like CLEO, you probably already have an ASI Loader installed. 
+If you already have mods like CLEO, you probably already have an ASI Loader installed.
 
 1. To install the Ultimate ASI Loader, simply extract the Ultimate ASI Loader's dinput8.dll file to the game's root directory (Folder where the game is installed).
 2. To install Rainbomizer, download the release archive from [Releases](https://github.com/Parik27/Rainbomizer/releases) and extract the archive to the root directory.
+
+In order for text to speech to not crash the game, you need bass and bass_fx in the game's root directory which you can download [here](https://github.com/multitheftauto/mtasa-blue/tree/master/Shared/data/MTA%20San%20Andreas/MTA).
 
 ## Configuration 🌈
 
