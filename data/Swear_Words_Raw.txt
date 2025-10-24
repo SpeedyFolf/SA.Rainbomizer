@@ -1,0 +1,22 @@
+# RegEx generated at https://www.javainuse.com/rexgenerator
+# Remove ^ from the beginning and $ from the end otherwise it will only get rid of sentences that are entirely/only these words
+# Don't tick ignore case/capitalization otherwise the game will say error parsing RegEx due to syntax error
+cunt
+cunts
+faggit
+faggits
+faggot
+faggots
+fagit
+fagits
+fagot
+fagots
+negro
+negros
+nigga
+niggas
+nigger
+niggers
+retard
+retarded
+retards

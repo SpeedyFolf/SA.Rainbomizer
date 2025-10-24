@@ -20,13 +20,13 @@
 #include <set>
 #include <array>
 
-#include "util/dyom/StubSession.hh"
+#include "util/dyom/JoshSesssion.hh"
 
 using namespace std::literals;
 
 DyomRandomizer *DyomRandomizer::mInstance = nullptr;
 
-static DyomStubSession sm_Session;
+static DyomJoshSession sm_Session;
 static DyomRandomizerTTS sm_TTS;
 
 uint32_t
